@@ -1,0 +1,20 @@
+body {
+  margin: 20px ;
+  text-align: center;
+}
+.image  {
+  width: 150px ;
+}
+.card {
+  border-bottom: 5px solid #d8cefe ;
+  background: #ccd5ae;
+  padding: 20px ;
+  display: flex;
+  width: 400px ;
+  margin : 0px auto ;
+  justify-content: space-around;
+}
+
+.border-blue {
+   border : 1px dotted blue ;
+}
